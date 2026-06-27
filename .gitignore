@@ -4,3 +4,4 @@ venv/
 __pycache__/
 *.pyc
 evaluation_results.csv
+.streamlit/secrets.toml
