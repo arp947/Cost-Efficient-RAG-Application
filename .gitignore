@@ -1,0 +1,6 @@
+venv/
+.env
+.lancedb/
+__pycache__/
+*.pyc
+evaluation_results.csv
